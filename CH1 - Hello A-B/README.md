@@ -1,4 +1,4 @@
-=Main Challenge=
+== Main Challenge ==
 
 Create a minimal server that randomly serves up one of two different pages for the same endpoint/url.
 
@@ -7,6 +7,6 @@ Reccomend using:
 * Express https://expressjs.com/
 
 
-=Additional challenge:+
+== Additional challenge: ==
 
 Count the number of times each page has been shown and display on each page respectively.
