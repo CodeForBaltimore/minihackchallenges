@@ -13,6 +13,7 @@ The text show on the url response should be readable text (not JSON).
 
 ### References
 * https://apps.twitter.com/
+* http://www.codingdefined.com/2016/06/how-to-parse-json-in-nodejs.html
 
 
 
