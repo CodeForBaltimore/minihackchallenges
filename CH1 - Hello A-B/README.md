@@ -13,4 +13,4 @@ Count the number of times each page has been shown and display on each page resp
 
 # Submission for review/feedback
 
-Create a subfolder in this directory named with your github name. Place all relevant code needed in the folder and submit a pull request to this project.
+Create a subfolder in this directory named with your github name. Place all relevant code needed in the folder and submit a pull request to this project's submissions branch.
