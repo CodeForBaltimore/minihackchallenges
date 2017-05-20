@@ -12,14 +12,14 @@ Add functionality to a minimal server, set up in CH1, to add a route that accept
 
 The function should test that the object is of the correct format then determine if the valuestring passed in is a palindrome (a word, phrase, or sequence that reads the same backward as forward, e.g., madam or nurses run). The response should be of the format:
 
-'''
+```
 {
   word:valueString,
   palindrome:[true|false]
 
 }
 
-'''
+```
 
 
 
@@ -36,13 +36,13 @@ The function should test that the object is of the correct format then determine
 # Additional challenge:
 write and additional route and function that determines if a number is a prime, even, odd, integer, etc based on a passed iin parameter like:
 
-'''
+```
 {
   number:value,
   test:[prime|odd|even|integer|<other>]
 }
 
-'''
+```
 
 # Submission for review/feedback
 
