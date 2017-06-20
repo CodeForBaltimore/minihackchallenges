@@ -4,7 +4,7 @@ Create a minimal server that randomly serves up one of two different pages for t
 
 ### Reccomend using:
 * Node.js https://nodejs.org/en/
-* Express https://expressjs.com/
+* Express https://expressjs.com/ |  https://expressjs.com/en/starter/installing.html  |  https://expressjs.com/en/starter/hello-world.html
 
 
 # Additional challenge:
