@@ -6,6 +6,8 @@ Create a minimal server that randomly serves up one of two different pages for t
 * Node.js https://nodejs.org/en/
 * Express https://expressjs.com/ |  https://expressjs.com/en/starter/installing.html  |  https://expressjs.com/en/starter/hello-world.html
 
+### Basic Node.js tutorial if needed:
+* https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/
 
 # Additional challenge:
 
